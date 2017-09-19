@@ -1,5 +1,8 @@
 #!/usr/bin/python
 # coding: utf-8
+
+# a useful blog
+# http://yshblog.com/blog/154
 import os
 import xlrd
 import xlwt
