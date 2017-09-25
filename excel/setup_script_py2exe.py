@@ -10,5 +10,6 @@ setup(
     zipfile = None
 )
 
+# usage: python setup_script_py2exe.py py2exe
 # list options for py2exe
 # http://www.py2exe.org/index.cgi/ListOfOptions
